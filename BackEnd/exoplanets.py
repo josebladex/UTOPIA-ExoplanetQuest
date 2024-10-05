@@ -9,7 +9,7 @@ st_rad = []
 sy_dist = []
 
 # Abrimos y leemos el archivo CSV
-with open('exoplanetas.csv', newline='') as csvfile:
+with open('exoplanets.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
 
     # Imprimimos los nombres de las columnas para depuración
