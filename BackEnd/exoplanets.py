@@ -1,4 +1,5 @@
 import csv
+import json
 
 # Inicializamos listas vacías para cada columna
 pl_name = []
@@ -27,3 +28,4 @@ with open('exoplanets.csv', newline='') as csvfile:
 
 # Mostramos el contenido de una de las listas como ejemplo
 print("Nombres de planetas:", pl_name)
+
