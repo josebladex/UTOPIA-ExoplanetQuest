@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 171238",
+        "customOrbit": "CustomHD171238Orbit",
+        "radius": 703305.42,
+        "type": "planet",
+        "id": 41000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 97.0,
+            "period": 1532.0,
+            "eccentricity": 0.234,
+            "semiMajorAxis": 2.57,
+            "epoch": 2463101.0,
+            "inclination": 19.1
+        },
+        "name": "HD 171238 b",
+        "customOrbit": "Custom HD 171238 b Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#915b72",
+        "type": "planet",
+        "id": 41000100
+    }
+]

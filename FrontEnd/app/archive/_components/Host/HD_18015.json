@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 18015",
+        "customOrbit": "CustomHD18015Orbit",
+        "radius": 2179550.46,
+        "type": "planet",
+        "id": 44000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 265.0,
+            "period": 2278.0,
+            "eccentricity": 0.148,
+            "semiMajorAxis": 3.87,
+            "epoch": 2454730.0,
+            "inclination": 69.0
+        },
+        "name": "HD 18015 b",
+        "customOrbit": "Custom HD 18015 b Orbit",
+        "radius": 83553.11,
+        "orbitColor": "#14de56",
+        "type": "planet",
+        "id": 44000100
+    }
+]

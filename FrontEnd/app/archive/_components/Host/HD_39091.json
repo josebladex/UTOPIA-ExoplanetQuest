@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 39091",
+        "customOrbit": "CustomHD39091Orbit",
+        "radius": 828646.98,
+        "type": "planet",
+        "id": 60000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 331.015,
+            "period": 2088.75851,
+            "eccentricity": 0.642,
+            "semiMajorAxis": 3.311,
+            "epoch": 2450034.39,
+            "inclination": 54.436
+        },
+        "name": "HD 39091 b",
+        "customOrbit": "Custom HD 39091 b Orbit",
+        "radius": 79088.44,
+        "orbitColor": "#96e93f",
+        "type": "planet",
+        "id": 60000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 103.31,
+            "period": 6.26791,
+            "eccentricity": 0.077,
+            "semiMajorAxis": 0.069,
+            "epoch": 2450828.565,
+            "inclination": 87.456
+        },
+        "name": "pi Men c",
+        "customOrbit": "Custom pi Men c Orbit",
+        "radius": 13138.886,
+        "orbitColor": "#7dddf9",
+        "type": "planet",
+        "id": 60000200
+    }
+]

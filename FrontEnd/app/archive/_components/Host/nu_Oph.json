@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "nu Oph",
+        "customOrbit": "CustomnuOphOrbit",
+        "radius": 8523226.08,
+        "type": "planet",
+        "id": 115000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 9.4,
+            "period": 529.93,
+            "eccentricity": 0.126,
+            "semiMajorAxis": 1.765,
+            "epoch": 2451506.0,
+            "inclination": 90.0
+        },
+        "name": "nu Oph b",
+        "customOrbit": "Custom nu Oph b Orbit",
+        "radius": 76537.20000000001,
+        "orbitColor": "#e5a5ac",
+        "type": "planet",
+        "id": 115000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 8.54,
+            "period": 3180.6,
+            "eccentricity": 0.179,
+            "semiMajorAxis": 5.829,
+            "epoch": 2449885.9,
+            "inclination": 90.0
+        },
+        "name": "nu Oph c",
+        "customOrbit": "Custom nu Oph c Orbit",
+        "radius": 76537.20000000001,
+        "orbitColor": "#52ec9b",
+        "type": "planet",
+        "id": 115000200
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 50554",
+        "customOrbit": "CustomHD50554Orbit",
+        "radius": 710268.84,
+        "type": "planet",
+        "id": 62000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 3.5,
+            "period": 1293.0,
+            "eccentricity": 0.501,
+            "semiMajorAxis": 2.353,
+            "epoch": 2451832.4,
+            "inclination": 61.0
+        },
+        "name": "HD 50554 b",
+        "customOrbit": "Custom HD 50554 b Orbit",
+        "radius": 81639.68000000001,
+        "orbitColor": "#b66243",
+        "type": "planet",
+        "id": 62000100
+    }
+]

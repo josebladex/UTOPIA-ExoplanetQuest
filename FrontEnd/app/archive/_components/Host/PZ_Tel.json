@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "PZ Tel",
+        "customOrbit": "CustomPZTelOrbit",
+        "radius": 877390.92,
+        "type": "planet",
+        "id": 95000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 50.0,
+            "period": 44000.0,
+            "eccentricity": 0.52,
+            "semiMajorAxis": 27.0,
+            "epoch": 2450500.0,
+            "inclination": 91.73
+        },
+        "name": "PZ Tel b",
+        "customOrbit": "Custom PZ Tel b Orbit",
+        "radius": 75899.39,
+        "orbitColor": "#12afd7",
+        "type": "planet",
+        "id": 95000100
+    }
+]

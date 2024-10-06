@@ -1,38 +1,57 @@
 # UTOPIA-ExoplanetQuest-Front End
-Nasa Apps Challenge Project For Navigator for the Habitable Worlds Observatory (HWO)
+
+# Habitable Worlds Observatory Navigator
+
+## Project Overview
+
+This project was developed in response to the **2024 NASA Space Apps Challenge**, focusing on the challenge titled **"Navigator for the Habitable Worlds Observatory (HWO): Mapping the Characterizable Exoplanets in our Galaxy."** The primary goal of this project is to visualize the observational paths across our galaxy to the known exoplanets in the solar neighborhood, assessing their potential for characterization by HWO.
+
+## Table of Contents
+
+- [Background](#background)
+- [Project Features](#project-features)
+- [Technology Stack](#technology-stack)
+- [Usage](#usage)
 
 
-## Getting Started
+## Background
 
-First, run the development server:
+Since 1995, thousands of exoplanets—planets orbiting stars outside our solar system—have been discovered, primarily using indirect methods. The **Habitable Worlds Observatory (HWO)** is an upcoming NASA initiative aimed at directly imaging exoplanets, enhancing our understanding of these Earth-like bodies. By visualizing which known exoplanets can be observed by HWO, we can better plan for this next-generation mission.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Two key parameters determine HWO's ability to characterize an exoplanet:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Distance to the Exoplanetary System**: The further away an exoplanet is, the fainter and closer it appears to its host star.
+2. **Diameter of the HWO Telescope**: A larger telescope allows for better separation of the exoplanet from its star.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Interactive visualization of known exoplanets and their observational paths in the galaxy.
+- Ability to filter exoplanetary systems based on distance and telescope diameter.
+- Calculation of the signal-to-noise ratio (SNR) for various telescope sizes to determine characterizability.
+- User-friendly interface for exploring potential targets for the HWO mission.
 
-## Learn More
+## Technology Stack
 
-To learn more about Next.js, take a look at the following resources:
+This project utilizes the following technologies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Frontend**: 
+  - React
+  - TypeScript
+  - Tailwind CSS
+  - D3.js (for data visualization)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Backend**:
+  - Node.js
+  - Express
+  - MongoDB (or any other database for storing exoplanet data)
 
-## Deploy on Vercel
+## Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone the repository:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   git clone https://github.com/josebladex/UTOPIA-ExoplanetQuest-
+
+## visit live and deployed project
+
+1.  https://github.com/yourusername/hwo-navigator.git

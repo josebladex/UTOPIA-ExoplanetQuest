@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-4603",
+        "customOrbit": "CustomTOI-4603Orbit",
+        "radius": 1907977.08,
+        "type": "planet",
+        "id": 106000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 20.4,
+            "period": 7.24599,
+            "eccentricity": 0.325,
+            "semiMajorAxis": 0.0888,
+            "epoch": 2459548.363,
+            "inclination": 80.21
+        },
+        "name": "TOI-4603 b",
+        "customOrbit": "Custom TOI-4603 b Orbit",
+        "radius": 74496.208,
+        "orbitColor": "#ffcc1a",
+        "type": "planet",
+        "id": 106000100
+    }
+]

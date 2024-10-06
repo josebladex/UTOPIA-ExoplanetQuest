@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 181234",
+        "customOrbit": "CustomHD181234Orbit",
+        "radius": 738122.52,
+        "type": "planet",
+        "id": 45000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 95.367,
+            "period": 7593.40512,
+            "eccentricity": 0.726,
+            "semiMajorAxis": 7.427,
+            "epoch": 2450080.111,
+            "inclination": 98.732
+        },
+        "name": "HD 181234 b",
+        "customOrbit": "Custom HD 181234 b Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#698756",
+        "type": "planet",
+        "id": 45000100
+    }
+]

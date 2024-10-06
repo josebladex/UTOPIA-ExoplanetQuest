@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-1231",
+        "customOrbit": "CustomTOI-1231Orbit",
+        "radius": 334244.16,
+        "type": "planet",
+        "id": 98000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 176.0,
+            "period": 24.245586,
+            "eccentricity": 0.087,
+            "semiMajorAxis": 0.1288,
+            "epoch": 2458543.7,
+            "inclination": 89.73
+        },
+        "name": "TOI-1231 b",
+        "customOrbit": "Custom TOI-1231 b Orbit",
+        "radius": 23280.065000000002,
+        "orbitColor": "#1e23ca",
+        "type": "planet",
+        "id": 98000100
+    }
+]

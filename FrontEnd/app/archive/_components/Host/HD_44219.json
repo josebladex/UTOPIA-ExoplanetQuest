@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 44219",
+        "customOrbit": "CustomHD44219Orbit",
+        "radius": 919171.4400000001,
+        "type": "planet",
+        "id": 61000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 145.0,
+            "period": 472.0,
+            "eccentricity": 0.41,
+            "semiMajorAxis": 1.26,
+            "epoch": 2454147.0,
+            "inclination": 90.0
+        },
+        "name": "HD 44219 b",
+        "customOrbit": "Custom HD 44219 b Orbit",
+        "radius": 89931.21,
+        "orbitColor": "#7339e5",
+        "type": "planet",
+        "id": 61000100
+    }
+]

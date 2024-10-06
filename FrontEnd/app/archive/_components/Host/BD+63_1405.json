@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "BD+63 1405",
+        "customOrbit": "CustomBD+631405Orbit",
+        "radius": 557073.6,
+        "type": "planet",
+        "id": 6000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 94.25,
+            "period": 1198.48,
+            "eccentricity": 0.88,
+            "semiMajorAxis": 2.06,
+            "epoch": 2455771.0,
+            "inclination": 5.974
+        },
+        "name": "BD+63 1405 b",
+        "customOrbit": "Custom BD+63 1405 b Orbit",
+        "radius": 79088.44,
+        "orbitColor": "#cbc170",
+        "type": "planet",
+        "id": 6000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 106270",
+        "customOrbit": "CustomHD106270Orbit",
+        "radius": 1852269.7200000002,
+        "type": "planet",
+        "id": 28000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 3.3,
+            "period": 1888.0,
+            "eccentricity": 0.185,
+            "semiMajorAxis": 3.34,
+            "epoch": 2456635.0,
+            "inclination": 63.0
+        },
+        "name": "HD 106270 b",
+        "customOrbit": "Custom HD 106270 b Orbit",
+        "radius": 79088.44,
+        "orbitColor": "#e74fcd",
+        "type": "planet",
+        "id": 28000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "EPIC 211945201",
+        "customOrbit": "CustomEPIC211945201Orbit",
+        "radius": 967915.3799999999,
+        "type": "planet",
+        "id": 12000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 90.0,
+            "period": 19.49221,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.1493,
+            "epoch": 2458113.93994,
+            "inclination": 87.9
+        },
+        "name": "EPIC 211945201 b",
+        "customOrbit": "Custom EPIC 211945201 b Orbit",
+        "radius": 36737.856,
+        "orbitColor": "#88ba25",
+        "type": "planet",
+        "id": 12000100
+    }
+]

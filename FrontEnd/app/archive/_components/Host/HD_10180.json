@@ -1,0 +1,75 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 10180",
+        "customOrbit": "CustomHD10180Orbit",
+        "radius": 772939.6200000001,
+        "type": "planet",
+        "id": 25000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 328.0,
+            "period": 5.75969,
+            "eccentricity": 0.073,
+            "semiMajorAxis": 0.06412,
+            "epoch": 2454001.445,
+            "inclination": 90.0
+        },
+        "name": "HD 10180 c",
+        "customOrbit": "Custom HD 10180 c Orbit",
+        "radius": 23471.408000000003,
+        "orbitColor": "#74c18d",
+        "type": "planet",
+        "id": 25000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 327.0,
+            "period": 122.744,
+            "eccentricity": 0.119,
+            "semiMajorAxis": 0.4929,
+            "epoch": 2454024.67,
+            "inclination": 90.0
+        },
+        "name": "HD 10180 f",
+        "customOrbit": "Custom HD 10180 f Orbit",
+        "radius": 33421.244000000006,
+        "orbitColor": "#1682fe",
+        "type": "planet",
+        "id": 25000200
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 327.0,
+            "period": 604.67,
+            "eccentricity": 0.263,
+            "semiMajorAxis": 1.427,
+            "epoch": 2454002.8,
+            "inclination": 90.0
+        },
+        "name": "HD 10180 g",
+        "customOrbit": "Custom HD 10180 g Orbit",
+        "radius": 31316.471,
+        "orbitColor": "#986d69",
+        "type": "planet",
+        "id": 25000300
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 142.0,
+            "period": 2205.0,
+            "eccentricity": 0.095,
+            "semiMajorAxis": 3.381,
+            "epoch": 2453433.4,
+            "inclination": 90.0
+        },
+        "name": "HD 10180 h",
+        "customOrbit": "Custom HD 10180 h Orbit",
+        "radius": 59954.14000000001,
+        "orbitColor": "#76b6b1",
+        "type": "planet",
+        "id": 25000400
+    }
+]

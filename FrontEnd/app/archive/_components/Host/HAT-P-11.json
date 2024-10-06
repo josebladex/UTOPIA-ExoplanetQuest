@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HAT-P-11",
+        "customOrbit": "CustomHAT-P-11Orbit",
+        "radius": 473512.56000000006,
+        "type": "planet",
+        "id": 23000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 143.7,
+            "period": 3407.0,
+            "eccentricity": 0.601,
+            "semiMajorAxis": 4.13,
+            "epoch": 2456862.0,
+            "inclination": 135.7
+        },
+        "name": "HAT-P-11 c",
+        "customOrbit": "Custom HAT-P-11 c Orbit",
+        "radius": 84828.73000000001,
+        "orbitColor": "#1718b2",
+        "type": "planet",
+        "id": 23000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "K2-261",
+        "customOrbit": "CustomK2-261Orbit",
+        "radius": 1142000.88,
+        "type": "planet",
+        "id": 83000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 131.0,
+            "period": 11.633478,
+            "eccentricity": 0.286,
+            "semiMajorAxis": 0.1034,
+            "epoch": 2457907.58,
+            "inclination": 88.07
+        },
+        "name": "K2-261 b",
+        "customOrbit": "Custom K2-261 b Orbit",
+        "radius": 60770.53680000001,
+        "orbitColor": "#8886b6",
+        "type": "planet",
+        "id": 83000100
+    }
+]

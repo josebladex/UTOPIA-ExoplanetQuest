@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "Kepler-849",
+        "customOrbit": "CustomKepler-849Orbit",
+        "radius": 1267342.44,
+        "type": "planet",
+        "id": 92000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -74.0,
+            "period": 394.62508,
+            "eccentricity": 0.078,
+            "semiMajorAxis": 1.137,
+            "epoch": 2454835.0,
+            "inclination": 89.923
+        },
+        "name": "Kepler-849 b",
+        "customOrbit": "Custom Kepler-849 b Orbit",
+        "radius": 51547.804200000006,
+        "orbitColor": "#b3c6fe",
+        "type": "planet",
+        "id": 92000100
+    }
+]

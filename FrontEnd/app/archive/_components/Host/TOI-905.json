@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-905",
+        "customOrbit": "CustomTOI-905Orbit",
+        "radius": 640634.64,
+        "type": "planet",
+        "id": 110000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 39.0,
+            "period": 3.739494,
+            "eccentricity": 0.024,
+            "semiMajorAxis": 0.04666,
+            "epoch": 2458627.86,
+            "inclination": 85.68
+        },
+        "name": "TOI-905 b",
+        "customOrbit": "Custom TOI-905 b Orbit",
+        "radius": 83718.9406,
+        "orbitColor": "#c766b9",
+        "type": "planet",
+        "id": 110000100
+    }
+]

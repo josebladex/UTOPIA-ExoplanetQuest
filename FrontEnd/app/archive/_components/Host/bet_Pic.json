@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "bet Pic",
+        "customOrbit": "CustombetPicOrbit",
+        "radius": 1072366.68,
+        "type": "planet",
+        "id": 112000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 21.835,
+            "period": 8617.50952,
+            "eccentricity": 0.106,
+            "semiMajorAxis": 10.018,
+            "epoch": 2448022.339,
+            "inclination": 89.009
+        },
+        "name": "bet Pic b",
+        "customOrbit": "Custom bet Pic b Orbit",
+        "radius": 117962.95950000001,
+        "orbitColor": "#2e2f7d",
+        "type": "planet",
+        "id": 112000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 243.89,
+            "period": 1192.77951,
+            "eccentricity": 0.314,
+            "semiMajorAxis": 2.68,
+            "epoch": 2452696.565,
+            "inclination": 88.947
+        },
+        "name": "bet Pic c",
+        "customOrbit": "Custom bet Pic c Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#4094dc",
+        "type": "planet",
+        "id": 112000200
+    }
+]

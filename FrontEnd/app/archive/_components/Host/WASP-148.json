@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "WASP-148",
+        "customOrbit": "CustomWASP-148Orbit",
+        "radius": 633671.22,
+        "type": "planet",
+        "id": 111000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 26.1,
+            "period": 34.524,
+            "eccentricity": 0.1809,
+            "semiMajorAxis": 0.2044,
+            "epoch": 2457931.4,
+            "inclination": 104.9
+        },
+        "name": "WASP-148 c",
+        "customOrbit": "Custom WASP-148 c Orbit",
+        "radius": 88655.59000000001,
+        "orbitColor": "#2bbef9",
+        "type": "planet",
+        "id": 111000100
+    }
+]

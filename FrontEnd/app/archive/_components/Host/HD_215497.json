@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 215497",
+        "customOrbit": "CustomHD215497Orbit",
+        "radius": 626707.8,
+        "type": "planet",
+        "id": 53000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 42.0,
+            "period": 566.0,
+            "eccentricity": 0.47,
+            "semiMajorAxis": 1.31,
+            "epoch": 2454431.0,
+            "inclination": 90.0
+        },
+        "name": "HD 215497 c",
+        "customOrbit": "Custom HD 215497 c Orbit",
+        "radius": 82915.3,
+        "orbitColor": "#ded272",
+        "type": "planet",
+        "id": 53000100
+    }
+]

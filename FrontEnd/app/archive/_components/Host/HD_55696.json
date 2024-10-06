@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 55696",
+        "customOrbit": "CustomHD55696Orbit",
+        "radius": 1058439.84,
+        "type": "planet",
+        "id": 63000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 137.0,
+            "period": 1827.0,
+            "eccentricity": 0.705,
+            "semiMajorAxis": 3.18,
+            "epoch": 2463648.0,
+            "inclination": 57.0
+        },
+        "name": "HD 55696 b",
+        "customOrbit": "Custom HD 55696 b Orbit",
+        "radius": 82277.49,
+        "orbitColor": "#fab950",
+        "type": "planet",
+        "id": 63000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 3929",
+        "customOrbit": "CustomGJ3929Orbit",
+        "radius": 222829.44,
+        "type": "planet",
+        "id": 19000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 90.0,
+            "period": 2.616235,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.0252,
+            "epoch": 2459320.05808,
+            "inclination": 88.442
+        },
+        "name": "GJ 3929 b",
+        "customOrbit": "Custom GJ 3929 b Orbit",
+        "radius": 6952.129000000001,
+        "orbitColor": "#570219",
+        "type": "planet",
+        "id": 19000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-2180",
+        "customOrbit": "CustomTOI-2180Orbit",
+        "radius": 1142000.88,
+        "type": "planet",
+        "id": 105000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -43.8,
+            "period": 260.79,
+            "eccentricity": 0.3683,
+            "semiMajorAxis": 0.828,
+            "epoch": 2458760.7,
+            "inclination": 89.955
+        },
+        "name": "TOI-2180 b",
+        "customOrbit": "Custom TOI-2180 b Orbit",
+        "radius": 72206.4701,
+        "orbitColor": "#91e539",
+        "type": "planet",
+        "id": 105000100
+    }
+]

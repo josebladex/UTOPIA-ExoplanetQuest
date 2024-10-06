@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 73583",
+        "customOrbit": "CustomHD73583Orbit",
+        "radius": 452622.3,
+        "type": "planet",
+        "id": 69000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -76.0,
+            "period": 6.398042,
+            "eccentricity": 0.09,
+            "semiMajorAxis": 0.0604,
+            "epoch": 2458511.67,
+            "inclination": 88.37
+        },
+        "name": "HD 73583 b",
+        "customOrbit": "Custom HD 73583 b Orbit",
+        "radius": 17794.899,
+        "orbitColor": "#581842",
+        "type": "planet",
+        "id": 69000100
+    }
+]

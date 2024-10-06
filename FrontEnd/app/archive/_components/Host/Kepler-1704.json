@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "Kepler-1704",
+        "customOrbit": "CustomKepler-1704Orbit",
+        "radius": 1183781.4,
+        "type": "planet",
+        "id": 88000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 82.4,
+            "period": 988.88112,
+            "eccentricity": 0.92,
+            "semiMajorAxis": 2.027,
+            "epoch": 2455071.88,
+            "inclination": 89.0
+        },
+        "name": "Kepler-1704 b",
+        "customOrbit": "Custom Kepler-1704 b Orbit",
+        "radius": 76211.9169,
+        "orbitColor": "#3bbb7f",
+        "type": "planet",
+        "id": 88000100
+    }
+]

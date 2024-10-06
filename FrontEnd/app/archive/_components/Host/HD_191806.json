@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 191806",
+        "customOrbit": "CustomHD191806Orbit",
+        "radius": 974878.7999999999,
+        "type": "planet",
+        "id": 49000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 346.184,
+            "period": 1603.38923,
+            "eccentricity": 0.213,
+            "semiMajorAxis": 2.749,
+            "epoch": 2451758.874,
+            "inclination": 66.519
+        },
+        "name": "HD 191806 b",
+        "customOrbit": "Custom HD 191806 b Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#4f0320",
+        "type": "planet",
+        "id": 49000100
+    }
+]

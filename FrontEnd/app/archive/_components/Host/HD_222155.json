@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 222155",
+        "customOrbit": "CustomHD222155Orbit",
+        "radius": 1288232.7,
+        "type": "planet",
+        "id": 56000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 163.0,
+            "period": 3999.0,
+            "eccentricity": 0.16,
+            "semiMajorAxis": 5.14,
+            "epoch": 2456319.0,
+            "inclination": 68.0
+        },
+        "name": "HD 222155 b",
+        "customOrbit": "Custom HD 222155 b Orbit",
+        "radius": 85466.54000000001,
+        "orbitColor": "#6f45d5",
+        "type": "planet",
+        "id": 56000100
+    }
+]

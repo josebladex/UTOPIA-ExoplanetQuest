@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "14 Her",
+        "customOrbit": "Custom14HerOrbit",
+        "radius": 647598.06,
+        "type": "planet",
+        "id": 1000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 23.043,
+            "period": 1765.0389,
+            "eccentricity": 0.373,
+            "semiMajorAxis": 2.774,
+            "epoch": 2449614.563,
+            "inclination": 144.652
+        },
+        "name": "14 Her b",
+        "customOrbit": "Custom 14 Her b Orbit",
+        "radius": 80364.06,
+        "orbitColor": "#3bc2fb",
+        "type": "planet",
+        "id": 1000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 190984",
+        "customOrbit": "CustomHD190984Orbit",
+        "radius": 1065403.26,
+        "type": "planet",
+        "id": 48000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 318.0,
+            "period": 4885.0,
+            "eccentricity": 0.57,
+            "semiMajorAxis": 5.5,
+            "epoch": 2449572.0,
+            "inclination": 64.0
+        },
+        "name": "HD 190984 b",
+        "customOrbit": "Custom HD 190984 b Orbit",
+        "radius": 82915.3,
+        "orbitColor": "#e88f3a",
+        "type": "planet",
+        "id": 48000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 27894",
+        "customOrbit": "CustomHD27894Orbit",
+        "radius": 619744.38,
+        "type": "planet",
+        "id": 57000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 334.378,
+            "period": 5019.54244,
+            "eccentricity": 0.343,
+            "semiMajorAxis": 5.362,
+            "epoch": 2447991.499,
+            "inclination": 101.524
+        },
+        "name": "HD 27894 d",
+        "customOrbit": "Custom HD 27894 d Orbit",
+        "radius": 81001.87,
+        "orbitColor": "#09a298",
+        "type": "planet",
+        "id": 57000100
+    }
+]

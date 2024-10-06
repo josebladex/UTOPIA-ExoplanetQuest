@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 192310",
+        "customOrbit": "CustomHD192310Orbit",
+        "radius": 598854.12,
+        "type": "planet",
+        "id": 50000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 173.0,
+            "period": 74.72,
+            "eccentricity": 0.13,
+            "semiMajorAxis": 0.32,
+            "epoch": 2455164.3,
+            "inclination": 90.0
+        },
+        "name": "HD 192310 b",
+        "customOrbit": "Custom HD 192310 b Orbit",
+        "radius": 27234.486999999997,
+        "orbitColor": "#e2ef09",
+        "type": "planet",
+        "id": 50000100
+    }
+]

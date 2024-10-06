@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 209458",
+        "customOrbit": "CustomHD209458Orbit",
+        "radius": 828646.98,
+        "type": "planet",
+        "id": 52000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 0.0,
+            "period": 3.52474859,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.04707,
+            "epoch": 2451412.3085,
+            "inclination": 86.71
+        },
+        "name": "HD 209458 b",
+        "customOrbit": "Custom HD 209458 b Orbit",
+        "radius": 99377.1761,
+        "orbitColor": "#add098",
+        "type": "planet",
+        "id": 52000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-2134",
+        "customOrbit": "CustomTOI-2134Orbit",
+        "radius": 494402.81999999995,
+        "type": "planet",
+        "id": 104000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 109.0,
+            "period": 9.2292005,
+            "eccentricity": 0.06,
+            "semiMajorAxis": 0.078,
+            "epoch": 2459407.89,
+            "inclination": 89.49
+        },
+        "name": "TOI-2134 b",
+        "customOrbit": "Custom TOI-2134 b Orbit",
+        "radius": 17157.089,
+        "orbitColor": "#e156cf",
+        "type": "planet",
+        "id": 104000100
+    }
+]

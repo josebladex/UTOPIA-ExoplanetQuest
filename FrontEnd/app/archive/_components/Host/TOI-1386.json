@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-1386",
+        "customOrbit": "CustomTOI-1386Orbit",
+        "radius": 710268.84,
+        "type": "planet",
+        "id": 99000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 90.0,
+            "period": 25.8401,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.173,
+            "epoch": 2458744.1,
+            "inclination": 89.69
+        },
+        "name": "TOI-1386 b",
+        "customOrbit": "Custom TOI-1386 b Orbit",
+        "radius": 39646.26960000001,
+        "orbitColor": "#b746b7",
+        "type": "planet",
+        "id": 99000100
+    }
+]

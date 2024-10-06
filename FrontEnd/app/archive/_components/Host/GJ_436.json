@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 436",
+        "customOrbit": "CustomGJ436Orbit",
+        "radius": 320317.32,
+        "type": "planet",
+        "id": 20000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 351.0,
+            "period": 2.64388312,
+            "eccentricity": 0.13827,
+            "semiMajorAxis": 0.0291,
+            "epoch": 2455959.0,
+            "inclination": 86.44
+        },
+        "name": "GJ 436 b",
+        "customOrbit": "Custom GJ 436 b Orbit",
+        "radius": 26596.677,
+        "orbitColor": "#b91320",
+        "type": "planet",
+        "id": 20000100
+    }
+]

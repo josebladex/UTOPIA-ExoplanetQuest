@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 175167",
+        "customOrbit": "CustomHD175167Orbit",
+        "radius": 1218598.5,
+        "type": "planet",
+        "id": 43000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 329.0,
+            "period": 1175.0,
+            "eccentricity": 0.51,
+            "semiMajorAxis": 2.4,
+            "epoch": 2457195.0,
+            "inclination": 60.0
+        },
+        "name": "HD 175167 b",
+        "customOrbit": "Custom HD 175167 b Orbit",
+        "radius": 78450.63,
+        "orbitColor": "#2f77a4",
+        "type": "planet",
+        "id": 43000100
+    }
+]

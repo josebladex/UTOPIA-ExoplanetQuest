@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HIP 66074",
+        "customOrbit": "CustomHIP66074Orbit",
+        "radius": 480475.98,
+        "type": "planet",
+        "id": 80000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -155.0,
+            "period": 310.9,
+            "eccentricity": 0.948,
+            "semiMajorAxis": 0.799,
+            "epoch": 2459962.48,
+            "inclination": 13.0
+        },
+        "name": "HIP 66074 b",
+        "customOrbit": "Custom HIP 66074 b Orbit",
+        "radius": 82277.49,
+        "orbitColor": "#e3949b",
+        "type": "planet",
+        "id": 80000100
+    }
+]

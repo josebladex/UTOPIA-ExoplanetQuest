@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 150706",
+        "customOrbit": "CustomHD150706Orbit",
+        "radius": 668488.32,
+        "type": "planet",
+        "id": 33000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 132.0,
+            "period": 5894.0,
+            "eccentricity": 0.38,
+            "semiMajorAxis": 6.7,
+            "epoch": 2458179.0,
+            "inclination": 70.0
+        },
+        "name": "HD 150706 b",
+        "customOrbit": "Custom HD 150706 b Orbit",
+        "radius": 84828.73000000001,
+        "orbitColor": "#f79a3f",
+        "type": "planet",
+        "id": 33000100
+    }
+]

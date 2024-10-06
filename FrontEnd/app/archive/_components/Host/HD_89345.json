@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 89345",
+        "customOrbit": "CustomHD89345Orbit",
+        "radius": 1218598.5,
+        "type": "planet",
+        "id": 76000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -13.0,
+            "period": 11.8143,
+            "eccentricity": 0.22,
+            "semiMajorAxis": 0.1066,
+            "epoch": 2457911.3,
+            "inclination": 87.21
+        },
+        "name": "HD 89345 b",
+        "customOrbit": "Custom HD 89345 b Orbit",
+        "radius": 47185.1838,
+        "orbitColor": "#785a6a",
+        "type": "planet",
+        "id": 76000100
+    }
+]

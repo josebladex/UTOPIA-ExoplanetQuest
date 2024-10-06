@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HIP 54597",
+        "customOrbit": "CustomHIP54597Orbit",
+        "radius": 459585.72000000003,
+        "type": "planet",
+        "id": 79000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 164.0,
+            "period": 3274.0,
+            "eccentricity": 0.03,
+            "semiMajorAxis": 4.0,
+            "epoch": 2454482.0,
+            "inclination": 116.0
+        },
+        "name": "HIP 54597 b",
+        "customOrbit": "Custom HIP 54597 b Orbit",
+        "radius": 84828.73000000001,
+        "orbitColor": "#11d08f",
+        "type": "planet",
+        "id": 79000100
+    }
+]

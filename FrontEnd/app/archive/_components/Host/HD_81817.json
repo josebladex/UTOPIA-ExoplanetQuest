@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 81817",
+        "customOrbit": "CustomHD81817Orbit",
+        "radius": 58353459.6,
+        "type": "planet",
+        "id": 72000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 294.231,
+            "period": 1021.20159,
+            "eccentricity": 0.097,
+            "semiMajorAxis": 3.233,
+            "epoch": 2452830.869,
+            "inclination": 95.594
+        },
+        "name": "HD 81817 b",
+        "customOrbit": "Custom HD 81817 b Orbit",
+        "radius": 76537.20000000001,
+        "orbitColor": "#e16b14",
+        "type": "planet",
+        "id": 72000100
+    }
+]

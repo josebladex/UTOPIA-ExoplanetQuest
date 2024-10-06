@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-1728",
+        "customOrbit": "CustomTOI-1728Orbit",
+        "radius": 431732.04,
+        "type": "planet",
+        "id": 101000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 45.0,
+            "period": 3.49151,
+            "eccentricity": 0.057,
+            "semiMajorAxis": 0.0391,
+            "epoch": 2458843.707,
+            "inclination": 88.31
+        },
+        "name": "TOI-1728 b",
+        "customOrbit": "Custom TOI-1728 b Orbit",
+        "radius": 32209.405000000002,
+        "orbitColor": "#c8052f",
+        "type": "planet",
+        "id": 101000100
+    }
+]

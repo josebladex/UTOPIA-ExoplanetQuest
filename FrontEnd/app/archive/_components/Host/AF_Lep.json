@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "AF Lep",
+        "customOrbit": "CustomAFLepOrbit",
+        "radius": 870427.5,
+        "type": "planet",
+        "id": 4000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 210.0,
+            "period": 8030.0,
+            "eccentricity": 0.24,
+            "semiMajorAxis": 8.4,
+            "epoch": 2456328.0,
+            "inclination": 50.0
+        },
+        "name": "AF Lep b",
+        "customOrbit": "Custom AF Lep b Orbit",
+        "radius": 83553.11,
+        "orbitColor": "#f2a29e",
+        "type": "planet",
+        "id": 4000100
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 82943",
+        "customOrbit": "CustomHD82943Orbit",
+        "radius": 821683.5599999999,
+        "type": "planet",
+        "id": 73000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 300.9,
+            "period": 441.47,
+            "eccentricity": 0.162,
+            "semiMajorAxis": 1.18306,
+            "epoch": 2451758.0,
+            "inclination": 90.0
+        },
+        "name": "HD 82943 b",
+        "customOrbit": "Custom HD 82943 b Orbit",
+        "radius": 86104.35,
+        "orbitColor": "#39d342",
+        "type": "planet",
+        "id": 73000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 117.2,
+            "period": 220.078,
+            "eccentricity": 0.3663,
+            "semiMajorAxis": 0.74345,
+            "epoch": 2452284.0,
+            "inclination": 90.0
+        },
+        "name": "HD 82943 c",
+        "customOrbit": "Custom HD 82943 c Orbit",
+        "radius": 85466.54000000001,
+        "orbitColor": "#56c986",
+        "type": "planet",
+        "id": 73000200
+    }
+]

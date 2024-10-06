@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "LP 714-47",
+        "customOrbit": "CustomLP714-47Orbit",
+        "radius": 403878.36,
+        "type": "planet",
+        "id": 93000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 219.0,
+            "period": 4.052037,
+            "eccentricity": 0.04,
+            "semiMajorAxis": 0.0417,
+            "epoch": 2458439.8,
+            "inclination": 87.3
+        },
+        "name": "LP 714-47 b",
+        "customOrbit": "Custom LP 714-47 b Orbit",
+        "radius": 29977.070000000003,
+        "orbitColor": "#fd222a",
+        "type": "planet",
+        "id": 93000100
+    }
+]

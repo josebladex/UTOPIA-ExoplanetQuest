@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 179",
+        "customOrbit": "CustomGJ179Orbit",
+        "radius": 264609.96,
+        "type": "planet",
+        "id": 16000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 153.0,
+            "period": 2288.0,
+            "eccentricity": 0.21,
+            "semiMajorAxis": 2.41,
+            "epoch": 2455140.0,
+            "inclination": 61.0
+        },
+        "name": "GJ 179 b",
+        "customOrbit": "Custom GJ 179 b Orbit",
+        "radius": 88017.78000000001,
+        "orbitColor": "#1c13fb",
+        "type": "planet",
+        "id": 16000100
+    }
+]

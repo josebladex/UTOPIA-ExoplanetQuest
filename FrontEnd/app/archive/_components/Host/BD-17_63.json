@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "BD-17 63",
+        "customOrbit": "CustomBD-1763Orbit",
+        "radius": 515293.08,
+        "type": "planet",
+        "id": 7000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 113.8,
+            "period": 655.57,
+            "eccentricity": 0.5439,
+            "semiMajorAxis": 1.34,
+            "epoch": 2457250.5,
+            "inclination": 80.0
+        },
+        "name": "BD-17 63 b",
+        "customOrbit": "Custom BD-17 63 b Orbit",
+        "radius": 81639.68000000001,
+        "orbitColor": "#93959b",
+        "type": "planet",
+        "id": 7000100
+    }
+]

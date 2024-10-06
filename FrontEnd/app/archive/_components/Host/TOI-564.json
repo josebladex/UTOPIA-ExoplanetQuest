@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-564",
+        "customOrbit": "CustomTOI-564Orbit",
+        "radius": 759012.78,
+        "type": "planet",
+        "id": 107000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 94.0,
+            "period": 1.651144,
+            "eccentricity": 0.072,
+            "semiMajorAxis": 0.02734,
+            "epoch": 2458516.57,
+            "inclination": 78.38
+        },
+        "name": "TOI-564 b",
+        "customOrbit": "Custom TOI-564 b Orbit",
+        "radius": 72920.81730000001,
+        "orbitColor": "#3f38f1",
+        "type": "planet",
+        "id": 107000100
+    }
+]

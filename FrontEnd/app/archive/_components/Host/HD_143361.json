@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 143361",
+        "customOrbit": "CustomHD143361Orbit",
+        "radius": 640634.64,
+        "type": "planet",
+        "id": 30000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 241.889,
+            "period": 1039.15,
+            "eccentricity": 0.197,
+            "semiMajorAxis": 1.988,
+            "epoch": 2456805.8,
+            "inclination": 50.0
+        },
+        "name": "HD 143361 b",
+        "customOrbit": "Custom HD 143361 b Orbit",
+        "radius": 82277.49,
+        "orbitColor": "#fc5556",
+        "type": "planet",
+        "id": 30000100
+    }
+]

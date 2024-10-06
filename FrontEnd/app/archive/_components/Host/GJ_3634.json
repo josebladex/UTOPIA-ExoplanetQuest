@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 3634",
+        "customOrbit": "CustomGJ3634Orbit",
+        "radius": 299427.06,
+        "type": "planet",
+        "id": 18000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 84.0,
+            "period": 2.64561,
+            "eccentricity": 0.08,
+            "semiMajorAxis": 0.0287,
+            "epoch": 2454917.04,
+            "inclination": 59.0
+        },
+        "name": "GJ 3634 b",
+        "customOrbit": "Custom GJ 3634 b Orbit",
+        "radius": 18050.023,
+        "orbitColor": "#4235d9",
+        "type": "planet",
+        "id": 18000100
+    }
+]

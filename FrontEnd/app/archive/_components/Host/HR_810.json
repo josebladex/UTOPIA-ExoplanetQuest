@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HR 810",
+        "customOrbit": "CustomHR810Orbit",
+        "radius": 786866.46,
+        "type": "planet",
+        "id": 81000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 309.0,
+            "period": 302.79999,
+            "eccentricity": 0.14,
+            "semiMajorAxis": 0.92,
+            "epoch": 2451492.8,
+            "inclination": 87.0
+        },
+        "name": "HR 810 b",
+        "customOrbit": "Custom HR 810 b Orbit",
+        "radius": 81001.87,
+        "orbitColor": "#7fd6e7",
+        "type": "planet",
+        "id": 81000100
+    }
+]

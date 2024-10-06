@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 154345",
+        "customOrbit": "CustomHD154345Orbit",
+        "radius": 591890.7,
+        "type": "planet",
+        "id": 34000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 319.6,
+            "period": 3341.55884,
+            "eccentricity": 0.04,
+            "semiMajorAxis": 4.21,
+            "epoch": 2458428.0,
+            "inclination": 69.0
+        },
+        "name": "HD 154345 b",
+        "customOrbit": "Custom HD 154345 b Orbit",
+        "radius": 87379.97,
+        "orbitColor": "#e972b5",
+        "type": "planet",
+        "id": 34000100
+    }
+]
