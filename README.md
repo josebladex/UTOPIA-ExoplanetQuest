@@ -1,6 +1,6 @@
-# 🌌 UTOPIA-ExoplanetQuest
+####  🌌 UTOPIA-ExoplanetQuest
 
-# 🚀 Habitable Worlds Observatory Navigator
+###  🚀 Habitable Worlds Observatory Navigator
 
 ## 🌠 Project Overview
 
@@ -42,15 +42,23 @@ Here's the tech powering our voyage through the stars:
 - **Backend**:
   - 🐍 **Python.js** for seamless backend operations
 
-## 📖 Usage
+## 📖 Front End Usage
 
-Ready to start exploring? Follow these steps:
+Ready to start exploring on your local machine? Follow these steps:
+
+# Prerequisites
+
+- **Node.js**: Make sure you have Node.js (version 16 or higher) installed. You can download it from [nodejs.org](https://nodejs.org/).
+- **pnpm**: We'll be using `pnpm` as a package manager. If you don't have it installed, you can do so by running:
+
+   ```bash
+   npm install -g pnpm
 
 1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/josebladex/UTOPIA-ExoplanetQuest
-   cd UTOPIA-ExoplanetQuest
+   cd UTOPIA-ExoplanetQuest/FronEnd
 
 2. **Install dependencies**:
 
@@ -59,11 +67,8 @@ Ready to start exploring? Follow these steps:
 3. **Run the development server**:
 
    ```bash
-   pnpm dev
-4. **Explore the cosmos: Open http://localhost:3000 in your browser and start your journey!**:
-
-   ```bash
-   pnpm dev
+   pnpm run dev
+4. **Explore the cosmos: Open http://localhost:3000 in your browser and start your journey!**
 
 ## 🌍 Visit Live Project
 Experience UTOPIA-ExoplanetQuest live at:
