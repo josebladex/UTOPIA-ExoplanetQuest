@@ -22,6 +22,9 @@ def eliminar_claves_vacias(json_data_list):
 
 # Leer los 6 archivos JSON
 nombres_archivos = ['jsons\Distance.json', 'jsons\planet_name.json', 'jsons\Planet_Radius.json', 'jsons\planet-star_distance.json', 'jsons\Stellar_Radius.json', 'jsons/telescope.json']
+
+print("archivo JSON:", nombres_archivos)
+
 json_data_list = []
 lengths = []
 
