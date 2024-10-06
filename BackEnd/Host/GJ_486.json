@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 486",
+        "customOrbit": "CustomGJ486Orbit",
+        "radius": 222829.44,
+        "type": "planet",
+        "id": 21000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 14.0,
+            "period": 1.46712127,
+            "eccentricity": 0.00086,
+            "semiMajorAxis": 0.01714,
+            "epoch": 2459690.82,
+            "inclination": 89.39
+        },
+        "name": "GJ 486 b",
+        "customOrbit": "Custom GJ 486 b Orbit",
+        "radius": 8221.3709,
+        "orbitColor": "#0d3773",
+        "type": "planet",
+        "id": 21000100
+    }
+]

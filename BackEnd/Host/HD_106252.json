@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 106252",
+        "customOrbit": "CustomHD106252Orbit",
+        "radius": 765976.2000000001,
+        "type": "planet",
+        "id": 27000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 291.4,
+            "period": 1531.0,
+            "eccentricity": 0.48,
+            "semiMajorAxis": 2.61,
+            "epoch": 2453397.5,
+            "inclination": 46.0
+        },
+        "name": "HD 106252 b",
+        "customOrbit": "Custom HD 106252 b Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#233ea1",
+        "type": "planet",
+        "id": 27000100
+    }
+]

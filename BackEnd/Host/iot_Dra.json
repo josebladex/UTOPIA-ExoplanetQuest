@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "iot Dra",
+        "customOrbit": "CustomiotDraOrbit",
+        "radius": 8209872.18,
+        "type": "planet",
+        "id": 113000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 89.9,
+            "period": 510.8544,
+            "eccentricity": 0.701,
+            "semiMajorAxis": 1.453,
+            "epoch": 2455590.17,
+            "inclination": 46.0
+        },
+        "name": "iot Dra b",
+        "customOrbit": "Custom iot Dra b Orbit",
+        "radius": 79088.44,
+        "orbitColor": "#e66407",
+        "type": "planet",
+        "id": 113000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 62.0,
+            "period": 25000.0,
+            "eccentricity": 0.455,
+            "semiMajorAxis": 19.4,
+            "epoch": 2476000.0,
+            "inclination": 86.0
+        },
+        "name": "iot Dra c",
+        "customOrbit": "Custom iot Dra c Orbit",
+        "radius": 77812.82,
+        "orbitColor": "#c3721c",
+        "type": "planet",
+        "id": 113000200
+    }
+]

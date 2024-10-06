@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 10697",
+        "customOrbit": "CustomHD10697Orbit",
+        "radius": 1295196.12,
+        "type": "planet",
+        "id": 29000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 112.816,
+            "period": 1075.3799,
+            "eccentricity": 0.104,
+            "semiMajorAxis": 2.051,
+            "epoch": 2449333.898,
+            "inclination": 86.116
+        },
+        "name": "HD 10697 b",
+        "customOrbit": "Custom HD 10697 b Orbit",
+        "radius": 81639.68000000001,
+        "orbitColor": "#4b8391",
+        "type": "planet",
+        "id": 29000100
+    }
+]

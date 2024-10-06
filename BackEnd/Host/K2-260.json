@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "K2-260",
+        "customOrbit": "CustomK2-260Orbit",
+        "radius": 1176817.98,
+        "type": "planet",
+        "id": 82000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 90.0,
+            "period": 2.6266657,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.0404,
+            "epoch": 2457820.738135,
+            "inclination": 88.67
+        },
+        "name": "K2-260 b",
+        "customOrbit": "Custom K2-260 b Orbit",
+        "radius": 110953.42760000001,
+        "orbitColor": "#c28512",
+        "type": "planet",
+        "id": 82000100
+    }
+]

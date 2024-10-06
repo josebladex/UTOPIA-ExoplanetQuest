@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 219077",
+        "customOrbit": "CustomHD219077Orbit",
+        "radius": 1330013.22,
+        "type": "planet",
+        "id": 54000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 57.341,
+            "period": 5478.68861,
+            "eccentricity": 0.768,
+            "semiMajorAxis": 5.935,
+            "epoch": 2450474.024,
+            "inclination": 90.178
+        },
+        "name": "HD 219077 b",
+        "customOrbit": "Custom HD 219077 b Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#ae40f1",
+        "type": "planet",
+        "id": 54000100
+    }
+]

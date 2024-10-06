@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 86264",
+        "customOrbit": "CustomHD86264Orbit",
+        "radius": 1309122.96,
+        "type": "planet",
+        "id": 74000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 313.959,
+            "period": 1488.79123,
+            "eccentricity": 0.821,
+            "semiMajorAxis": 2.763,
+            "epoch": 2450646.688,
+            "inclination": 93.591
+        },
+        "name": "HD 86264 b",
+        "customOrbit": "Custom HD 86264 b Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#704f44",
+        "type": "planet",
+        "id": 74000100
+    }
+]

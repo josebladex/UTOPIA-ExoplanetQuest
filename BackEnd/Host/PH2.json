@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "PH2",
+        "customOrbit": "CustomPH2Orbit",
+        "radius": 661524.9,
+        "type": "planet",
+        "id": 94000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 24.0,
+            "period": 282.52542,
+            "eccentricity": 0.215,
+            "semiMajorAxis": 0.833,
+            "epoch": 2455162.8,
+            "inclination": 89.898
+        },
+        "name": "PH2 b",
+        "customOrbit": "Custom PH2 b Orbit",
+        "radius": 59552.3197,
+        "orbitColor": "#3b16ed",
+        "type": "planet",
+        "id": 94000100
+    }
+]

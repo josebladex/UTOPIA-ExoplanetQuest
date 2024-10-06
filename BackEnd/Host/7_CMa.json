@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "7 CMa",
+        "customOrbit": "Custom7CMaOrbit",
+        "radius": 3391185.54,
+        "type": "planet",
+        "id": 3000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 165.3,
+            "period": 735.1,
+            "eccentricity": 0.06,
+            "semiMajorAxis": 1.758,
+            "epoch": 2454093.0,
+            "inclination": 90.0
+        },
+        "name": "7 CMa b",
+        "customOrbit": "Custom 7 CMa b Orbit",
+        "radius": 85466.54000000001,
+        "orbitColor": "#75dc81",
+        "type": "planet",
+        "id": 3000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 75302",
+        "customOrbit": "CustomHD75302Orbit",
+        "radius": 654561.48,
+        "type": "planet",
+        "id": 70000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 307.0,
+            "period": 4356.0,
+            "eccentricity": 0.39,
+            "semiMajorAxis": 5.3,
+            "epoch": 2457607.0,
+            "inclination": 29.0
+        },
+        "name": "HD 75302 b",
+        "customOrbit": "Custom HD 75302 b Orbit",
+        "radius": 81639.68000000001,
+        "orbitColor": "#701a37",
+        "type": "planet",
+        "id": 70000100
+    }
+]

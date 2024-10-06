@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 145934",
+        "customOrbit": "CustomHD145934Orbit",
+        "radius": 4825650.06,
+        "type": "planet",
+        "id": 31000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 186.316,
+            "period": 2751.53433,
+            "eccentricity": 0.078,
+            "semiMajorAxis": 4.89,
+            "epoch": 2448526.931,
+            "inclination": 81.958
+        },
+        "name": "HD 145934 b",
+        "customOrbit": "Custom HD 145934 b Orbit",
+        "radius": 85466.54000000001,
+        "orbitColor": "#fcf112",
+        "type": "planet",
+        "id": 31000100
+    }
+]

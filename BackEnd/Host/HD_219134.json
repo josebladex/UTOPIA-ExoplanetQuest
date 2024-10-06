@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 219134",
+        "customOrbit": "CustomHD219134Orbit",
+        "radius": 543146.76,
+        "type": "planet",
+        "id": 55000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 0.0,
+            "period": 3.092926,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.03876,
+            "epoch": 2449999.5,
+            "inclination": 85.05
+        },
+        "name": "HD 219134 b",
+        "customOrbit": "Custom HD 219134 b Orbit",
+        "radius": 10217.7162,
+        "orbitColor": "#2ab2a1",
+        "type": "planet",
+        "id": 55000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 70.0,
+            "period": 6.76458,
+            "eccentricity": 0.062,
+            "semiMajorAxis": 0.0653,
+            "epoch": 2449998.5,
+            "inclination": 87.28
+        },
+        "name": "HD 219134 c",
+        "customOrbit": "Custom HD 219134 c Orbit",
+        "radius": 9637.3091,
+        "orbitColor": "#df933a",
+        "type": "planet",
+        "id": 55000200
+    }
+]

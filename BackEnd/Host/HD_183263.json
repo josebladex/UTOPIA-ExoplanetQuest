@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 183263",
+        "customOrbit": "CustomHD183263Orbit",
+        "radius": 898281.18,
+        "type": "planet",
+        "id": 46000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 297.163,
+            "period": 4667.97841,
+            "eccentricity": 0.051,
+            "semiMajorAxis": 5.585,
+            "epoch": 2451487.545,
+            "inclination": 73.718
+        },
+        "name": "HD 183263 c",
+        "customOrbit": "Custom HD 183263 c Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#a37953",
+        "type": "planet",
+        "id": 46000100
+    }
+]

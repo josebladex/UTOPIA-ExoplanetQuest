@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 70642",
+        "customOrbit": "CustomHD70642Orbit",
+        "radius": 682415.16,
+        "type": "planet",
+        "id": 65000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 272.84,
+            "period": 2124.54,
+            "eccentricity": 0.175,
+            "semiMajorAxis": 3.318,
+            "epoch": 2456159.1,
+            "inclination": 29.9
+        },
+        "name": "HD 70642 b",
+        "customOrbit": "Custom HD 70642 b Orbit",
+        "radius": 82915.3,
+        "orbitColor": "#33e2cf",
+        "type": "planet",
+        "id": 65000100
+    }
+]

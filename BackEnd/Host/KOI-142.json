@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "KOI-142",
+        "customOrbit": "CustomKOI-142Orbit",
+        "radius": 626707.8,
+        "type": "planet",
+        "id": 85000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 90.59,
+            "period": 10.91647,
+            "eccentricity": 0.05561,
+            "semiMajorAxis": 0.095822,
+            "epoch": 2454955.08069,
+            "inclination": 90.97
+        },
+        "name": "KOI-142 b",
+        "customOrbit": "Custom KOI-142 b Orbit",
+        "radius": 21927.9078,
+        "orbitColor": "#8d6736",
+        "type": "planet",
+        "id": 85000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 270.76,
+            "period": 22.26492,
+            "eccentricity": 0.05724,
+            "semiMajorAxis": 0.154121,
+            "epoch": 2454961.353,
+            "inclination": 93.15
+        },
+        "name": "KOI-142 c",
+        "customOrbit": "Custom KOI-142 c Orbit",
+        "radius": 89293.40000000001,
+        "orbitColor": "#d6e356",
+        "type": "planet",
+        "id": 85000200
+    }
+]

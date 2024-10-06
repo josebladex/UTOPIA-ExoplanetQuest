@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 100777",
+        "customOrbit": "CustomHD100777Orbit",
+        "radius": 724195.68,
+        "type": "planet",
+        "id": 24000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 204.0,
+            "period": 383.0,
+            "eccentricity": 0.38,
+            "semiMajorAxis": 1.06,
+            "epoch": 2454224.0,
+            "inclination": 90.0
+        },
+        "name": "HD 100777 b",
+        "customOrbit": "Custom HD 100777 b Orbit",
+        "radius": 87379.97,
+        "orbitColor": "#653502",
+        "type": "planet",
+        "id": 24000100
+    }
+]

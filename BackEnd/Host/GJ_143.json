@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 143",
+        "customOrbit": "CustomGJ143Orbit",
+        "radius": 487439.39999999997,
+        "type": "planet",
+        "id": 15000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 98.0,
+            "period": 35.61253,
+            "eccentricity": 0.188,
+            "semiMajorAxis": 0.1915,
+            "epoch": 2458350.8,
+            "inclination": 89.33
+        },
+        "name": "GJ 143 b",
+        "customOrbit": "Custom GJ 143 b Orbit",
+        "radius": 16646.841,
+        "orbitColor": "#d14900",
+        "type": "planet",
+        "id": 15000100
+    }
+]

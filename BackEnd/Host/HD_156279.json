@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 156279",
+        "customOrbit": "CustomHD156279Orbit",
+        "radius": 675451.74,
+        "type": "planet",
+        "id": 35000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 98.377,
+            "period": 4818.25358,
+            "eccentricity": 0.261,
+            "semiMajorAxis": 5.486,
+            "epoch": 2451076.76,
+            "inclination": 74.699
+        },
+        "name": "HD 156279 c",
+        "customOrbit": "Custom HD 156279 c Orbit",
+        "radius": 79726.25,
+        "orbitColor": "#37eb96",
+        "type": "planet",
+        "id": 35000100
+    }
+]

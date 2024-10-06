@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 149026",
+        "customOrbit": "CustomHD149026Orbit",
+        "radius": 981842.22,
+        "type": "planet",
+        "id": 32000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 109.0,
+            "period": 2.87589,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.04364,
+            "epoch": 2453317.838,
+            "inclination": 84.55
+        },
+        "name": "HD 149026 b",
+        "customOrbit": "Custom HD 149026 b Orbit",
+        "radius": 52906.3395,
+        "orbitColor": "#22d065",
+        "type": "planet",
+        "id": 32000100
+    }
+]

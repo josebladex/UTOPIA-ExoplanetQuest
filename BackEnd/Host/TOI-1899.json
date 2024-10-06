@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-1899",
+        "customOrbit": "CustomTOI-1899Orbit",
+        "radius": 424768.62,
+        "type": "planet",
+        "id": 102000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -53.0,
+            "period": 29.090312,
+            "eccentricity": 0.044,
+            "semiMajorAxis": 0.1525,
+            "epoch": 2458705.37,
+            "inclination": 89.64
+        },
+        "name": "TOI-1899 b",
+        "customOrbit": "Custom TOI-1899 b Orbit",
+        "radius": 70777.7757,
+        "orbitColor": "#55ed99",
+        "type": "planet",
+        "id": 102000100
+    }
+]

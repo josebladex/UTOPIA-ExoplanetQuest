@@ -1,0 +1,59 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-712",
+        "customOrbit": "CustomTOI-712Orbit",
+        "radius": 466549.14,
+        "type": "planet",
+        "id": 109000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 68.0,
+            "period": 9.531361,
+            "eccentricity": 0.54,
+            "semiMajorAxis": 0.07928,
+            "epoch": 2458385.49,
+            "inclination": 88.22
+        },
+        "name": "TOI-712 b",
+        "customOrbit": "Custom TOI-712 b Orbit",
+        "radius": 13068.7269,
+        "orbitColor": "#f0f332",
+        "type": "planet",
+        "id": 109000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 115.0,
+            "period": 51.69906,
+            "eccentricity": 0.089,
+            "semiMajorAxis": 0.2447,
+            "epoch": 2458425.0,
+            "inclination": 89.78
+        },
+        "name": "TOI-712 c",
+        "customOrbit": "Custom TOI-712 c Orbit",
+        "radius": 17227.2481,
+        "orbitColor": "#dc04cd",
+        "type": "planet",
+        "id": 109000200
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 30.0,
+            "period": 84.8396,
+            "eccentricity": 0.073,
+            "semiMajorAxis": 0.3405,
+            "epoch": 2458396.0,
+            "inclination": 89.817
+        },
+        "name": "TOI-712 d",
+        "customOrbit": "Custom TOI-712 d Orbit",
+        "radius": 15779.419400000002,
+        "orbitColor": "#a6b727",
+        "type": "planet",
+        "id": 109000300
+    }
+]

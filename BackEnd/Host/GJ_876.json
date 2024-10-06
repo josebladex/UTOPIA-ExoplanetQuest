@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 876",
+        "customOrbit": "CustomGJ876Orbit",
+        "radius": 208902.6,
+        "type": "planet",
+        "id": 22000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 239.0,
+            "period": 124.26,
+            "eccentricity": 0.055,
+            "semiMajorAxis": 0.3343,
+            "epoch": 2450602.093,
+            "inclination": 59.0
+        },
+        "name": "GJ 876 e",
+        "customOrbit": "Custom GJ 876 e Orbit",
+        "radius": 25002.152000000002,
+        "orbitColor": "#8e92ba",
+        "type": "planet",
+        "id": 22000100
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-2010",
+        "customOrbit": "CustomTOI-2010Orbit",
+        "radius": 752049.3600000001,
+        "type": "planet",
+        "id": 103000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 98.8,
+            "period": 141.834025,
+            "eccentricity": 0.212,
+            "semiMajorAxis": 0.5516,
+            "epoch": 2458572.7,
+            "inclination": 89.903
+        },
+        "name": "TOI-2010 b",
+        "customOrbit": "Custom TOI-2010 b Orbit",
+        "radius": 75350.87340000001,
+        "orbitColor": "#e14130",
+        "type": "planet",
+        "id": 103000100
+    }
+]

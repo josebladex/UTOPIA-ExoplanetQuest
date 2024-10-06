@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "Kepler-553",
+        "customOrbit": "CustomKepler-553Orbit",
+        "radius": 626707.8,
+        "type": "planet",
+        "id": 89000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -48.2,
+            "period": 328.24017,
+            "eccentricity": 0.346,
+            "semiMajorAxis": 0.898,
+            "epoch": 2454935.8,
+            "inclination": 89.831
+        },
+        "name": "Kepler-553 c",
+        "customOrbit": "Custom Kepler-553 c Orbit",
+        "radius": 73852.01990000001,
+        "orbitColor": "#3455d9",
+        "type": "planet",
+        "id": 89000100
+    }
+]

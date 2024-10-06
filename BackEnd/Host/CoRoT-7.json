@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "CoRoT-7",
+        "customOrbit": "CustomCoRoT-7Orbit",
+        "radius": 577963.86,
+        "type": "planet",
+        "id": 11000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 160.0,
+            "period": 0.85359163,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.017016,
+            "epoch": 2454398.21,
+            "inclination": 80.1
+        },
+        "name": "CoRoT-7 b",
+        "customOrbit": "Custom CoRoT-7 b Orbit",
+        "radius": 10721.5861,
+        "orbitColor": "#99bad0",
+        "type": "planet",
+        "id": 11000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 180.0,
+            "period": 3.698,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.046,
+            "epoch": 2455953.3,
+            "inclination": 80.0
+        },
+        "name": "CoRoT-7 c",
+        "customOrbit": "Custom CoRoT-7 c Orbit",
+        "radius": 18050.023,
+        "orbitColor": "#f45269",
+        "type": "planet",
+        "id": 11000200
+    }
+]

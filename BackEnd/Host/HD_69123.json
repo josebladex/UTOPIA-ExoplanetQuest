@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 69123",
+        "customOrbit": "CustomHD69123Orbit",
+        "radius": 5375760.24,
+        "type": "planet",
+        "id": 64000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -67.3,
+            "period": 1193.3,
+            "eccentricity": 0.19,
+            "semiMajorAxis": 2.482,
+            "epoch": 2455715.7,
+            "inclination": 70.0
+        },
+        "name": "HD 69123 b",
+        "customOrbit": "Custom HD 69123 b Orbit",
+        "radius": 83553.11,
+        "orbitColor": "#d9036b",
+        "type": "planet",
+        "id": 64000100
+    }
+]

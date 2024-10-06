@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 1214",
+        "customOrbit": "CustomGJ1214Orbit",
+        "radius": 153195.24,
+        "type": "planet",
+        "id": 14000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 77.0,
+            "period": 1.58040453,
+            "eccentricity": 0.0062,
+            "semiMajorAxis": 0.01505,
+            "epoch": 2459639.725,
+            "inclination": 88.98
+        },
+        "name": "GJ 1214 b",
+        "customOrbit": "Custom GJ 1214 b Orbit",
+        "radius": 17431.3473,
+        "orbitColor": "#c88d64",
+        "type": "planet",
+        "id": 14000100
+    }
+]

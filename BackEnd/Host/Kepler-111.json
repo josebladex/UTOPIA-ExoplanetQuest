@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "Kepler-111",
+        "customOrbit": "CustomKepler-111Orbit",
+        "radius": 800793.2999999999,
+        "type": "planet",
+        "id": 86000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -141.0,
+            "period": 224.77833,
+            "eccentricity": 0.176,
+            "semiMajorAxis": 0.751,
+            "epoch": 2454818.0,
+            "inclination": 89.756
+        },
+        "name": "Kepler-111 c",
+        "customOrbit": "Custom Kepler-111 c Orbit",
+        "radius": 45182.4604,
+        "orbitColor": "#b22300",
+        "type": "planet",
+        "id": 86000100
+    }
+]

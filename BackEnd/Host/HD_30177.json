@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 30177",
+        "customOrbit": "CustomHD30177Orbit",
+        "radius": 710268.84,
+        "type": "planet",
+        "id": 59000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 25.044,
+            "period": 2514.53422,
+            "eccentricity": 0.207,
+            "semiMajorAxis": 3.604,
+            "epoch": 2448895.006,
+            "inclination": 85.393
+        },
+        "name": "HD 30177 b",
+        "customOrbit": "Custom HD 30177 b Orbit",
+        "radius": 80364.06,
+        "orbitColor": "#f9d5a4",
+        "type": "planet",
+        "id": 59000100
+    }
+]

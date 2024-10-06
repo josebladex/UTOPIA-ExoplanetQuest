@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 29021",
+        "customOrbit": "CustomHD29021Orbit",
+        "radius": 591890.7,
+        "type": "planet",
+        "id": 58000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 179.5,
+            "period": 1362.3,
+            "eccentricity": 0.459,
+            "semiMajorAxis": 2.28,
+            "epoch": 2455823.9,
+            "inclination": 33.7
+        },
+        "name": "HD 29021 b",
+        "customOrbit": "Custom HD 29021 b Orbit",
+        "radius": 82277.49,
+        "orbitColor": "#77d12c",
+        "type": "planet",
+        "id": 58000100
+    }
+]

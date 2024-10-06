@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 73256",
+        "customOrbit": "CustomHD73256Orbit",
+        "radius": 654561.48,
+        "type": "planet",
+        "id": 67000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 300.0,
+            "period": 2690.0,
+            "eccentricity": 0.16,
+            "semiMajorAxis": 3.8,
+            "epoch": 2454244.0,
+            "inclination": 29.0
+        },
+        "name": "HD 73256 c",
+        "customOrbit": "Custom HD 73256 c Orbit",
+        "radius": 77812.82,
+        "orbitColor": "#fdc3f2",
+        "type": "planet",
+        "id": 67000100
+    }
+]

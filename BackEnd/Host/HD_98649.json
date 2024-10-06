@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 98649",
+        "customOrbit": "CustomHD98649Orbit",
+        "radius": 703305.42,
+        "type": "planet",
+        "id": 78000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 254.062,
+            "period": 5697.3043,
+            "eccentricity": 0.841,
+            "semiMajorAxis": 6.297,
+            "epoch": 2449410.572,
+            "inclination": 78.838
+        },
+        "name": "HD 98649 b",
+        "customOrbit": "Custom HD 98649 b Orbit",
+        "radius": 80364.06,
+        "orbitColor": "#08ab2f",
+        "type": "planet",
+        "id": 78000100
+    }
+]

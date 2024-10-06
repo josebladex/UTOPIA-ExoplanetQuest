@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 72659",
+        "customOrbit": "CustomHD72659Orbit",
+        "radius": 1016659.32,
+        "type": "planet",
+        "id": 66000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 259.451,
+            "period": 3549.39854,
+            "eccentricity": 0.257,
+            "semiMajorAxis": 4.691,
+            "epoch": 2448147.062,
+            "inclination": 77.583
+        },
+        "name": "HD 72659 b",
+        "customOrbit": "Custom HD 72659 b Orbit",
+        "radius": 84190.92,
+        "orbitColor": "#c7b0ce",
+        "type": "planet",
+        "id": 66000100
+    }
+]

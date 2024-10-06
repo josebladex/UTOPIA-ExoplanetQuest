@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TIC 393818343",
+        "customOrbit": "CustomTIC393818343Orbit",
+        "radius": 759012.78,
+        "type": "planet",
+        "id": 97000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 1.69,
+            "period": 16.24921,
+            "eccentricity": 0.6058,
+            "semiMajorAxis": 0.1291,
+            "epoch": 2459810.145,
+            "inclination": 89.57
+        },
+        "name": "TIC 393818343 b",
+        "customOrbit": "Custom TIC 393818343 b Orbit",
+        "radius": 77710.7704,
+        "orbitColor": "#ad5135",
+        "type": "planet",
+        "id": 97000100
+    }
+]

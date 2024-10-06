@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-620",
+        "customOrbit": "CustomTOI-620Orbit",
+        "radius": 382988.10000000003,
+        "type": "planet",
+        "id": 108000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -84.0,
+            "period": 5.0988179,
+            "eccentricity": 0.22,
+            "semiMajorAxis": 0.04825,
+            "epoch": 2458516.5,
+            "inclination": 87.47
+        },
+        "name": "TOI-620 b",
+        "customOrbit": "Custom TOI-620 b Orbit",
+        "radius": 23981.656,
+        "orbitColor": "#454777",
+        "type": "planet",
+        "id": 108000100
+    }
+]

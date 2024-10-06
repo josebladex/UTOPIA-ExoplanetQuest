@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "51 Peg",
+        "customOrbit": "Custom51PegOrbit",
+        "radius": 821683.5599999999,
+        "type": "planet",
+        "id": 2000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 58.0,
+            "period": 4.230785,
+            "eccentricity": 0.013,
+            "semiMajorAxis": 0.0527,
+            "epoch": 2450001.51,
+            "inclination": 80.0
+        },
+        "name": "51 Peg b",
+        "customOrbit": "Custom 51 Peg b Orbit",
+        "radius": 91206.83000000002,
+        "orbitColor": "#46504f",
+        "type": "planet",
+        "id": 2000100
+    }
+]

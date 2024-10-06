@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 80869",
+        "customOrbit": "CustomHD80869Orbit",
+        "radius": 738122.52,
+        "type": "planet",
+        "id": 71000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 76.703,
+            "period": 1752.92067,
+            "eccentricity": 0.924,
+            "semiMajorAxis": 2.905,
+            "epoch": 2455127.775,
+            "inclination": 98.559
+        },
+        "name": "HD 80869 b",
+        "customOrbit": "Custom HD 80869 b Orbit",
+        "radius": 81639.68000000001,
+        "orbitColor": "#45e9e4",
+        "type": "planet",
+        "id": 71000100
+    }
+]

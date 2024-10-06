@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 164604",
+        "customOrbit": "CustomHD164604Orbit",
+        "radius": 536183.34,
+        "type": "planet",
+        "id": 37000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 65.4,
+            "period": 641.472,
+            "eccentricity": 0.35,
+            "semiMajorAxis": 1.331,
+            "epoch": 2452674.0,
+            "inclination": 29.0
+        },
+        "name": "HD 164604 b",
+        "customOrbit": "Custom HD 164604 b Orbit",
+        "radius": 78450.63,
+        "orbitColor": "#9c2983",
+        "type": "planet",
+        "id": 37000100
+    }
+]

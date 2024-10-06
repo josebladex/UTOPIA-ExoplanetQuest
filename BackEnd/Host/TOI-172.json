@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "TOI-172",
+        "customOrbit": "CustomTOI-172Orbit",
+        "radius": 1239488.76,
+        "type": "planet",
+        "id": 100000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 57.1,
+            "period": 9.47725,
+            "eccentricity": 0.3806,
+            "semiMajorAxis": 0.0914,
+            "epoch": 2458326.549,
+            "inclination": 88.2
+        },
+        "name": "TOI-172 b",
+        "customOrbit": "Custom TOI-172 b Orbit",
+        "radius": 68991.90770000001,
+        "orbitColor": "#301f21",
+        "type": "planet",
+        "id": 100000100
+    }
+]

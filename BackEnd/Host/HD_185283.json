@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 185283",
+        "customOrbit": "CustomHD185283Orbit",
+        "radius": 515293.08,
+        "type": "planet",
+        "id": 47000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 281.0,
+            "period": 4060.0,
+            "eccentricity": 0.07,
+            "semiMajorAxis": 4.6,
+            "epoch": 2454136.0,
+            "inclination": 91.0
+        },
+        "name": "HD 185283 b",
+        "customOrbit": "Custom HD 185283 b Orbit",
+        "radius": 86742.16,
+        "orbitColor": "#183585",
+        "type": "planet",
+        "id": 47000100
+    }
+]

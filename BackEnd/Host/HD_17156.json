@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 17156",
+        "customOrbit": "CustomHD17156Orbit",
+        "radius": 1079330.1,
+        "type": "planet",
+        "id": 42000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 121.32,
+            "period": 21.21663,
+            "eccentricity": 0.68,
+            "semiMajorAxis": 0.16278,
+            "epoch": 2454884.02817,
+            "inclination": 87.82
+        },
+        "name": "HD 17156 b",
+        "customOrbit": "Custom HD 17156 b Orbit",
+        "radius": 78641.973,
+        "orbitColor": "#7968e6",
+        "type": "planet",
+        "id": 42000100
+    }
+]

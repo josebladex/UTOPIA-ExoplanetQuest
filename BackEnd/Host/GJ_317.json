@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "GJ 317",
+        "customOrbit": "CustomGJ317Orbit",
+        "radius": 299427.06,
+        "type": "planet",
+        "id": 17000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 72.0,
+            "period": 695.66,
+            "eccentricity": 0.07,
+            "semiMajorAxis": 1.151,
+            "epoch": 2450988.9,
+            "inclination": 45.0
+        },
+        "name": "GJ 317 b",
+        "customOrbit": "Custom GJ 317 b Orbit",
+        "radius": 84828.73000000001,
+        "orbitColor": "#229941",
+        "type": "planet",
+        "id": 17000100
+    }
+]

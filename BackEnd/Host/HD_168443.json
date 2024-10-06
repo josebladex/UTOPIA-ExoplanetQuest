@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 168443",
+        "customOrbit": "CustomHD168443Orbit",
+        "radius": 1190744.82,
+        "type": "planet",
+        "id": 39000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 65.597,
+            "period": 1753.1096,
+            "eccentricity": 0.21,
+            "semiMajorAxis": 2.842,
+            "epoch": 2450262.365,
+            "inclination": 91.218
+        },
+        "name": "HD 168443 c",
+        "customOrbit": "Custom HD 168443 c Orbit",
+        "radius": 77812.82,
+        "orbitColor": "#1858b2",
+        "type": "planet",
+        "id": 39000100
+    }
+]

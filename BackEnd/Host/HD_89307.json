@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 89307",
+        "customOrbit": "CustomHD89307Orbit",
+        "radius": 765976.2000000001,
+        "type": "planet",
+        "id": 75000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 14.0,
+            "period": 2166.0,
+            "eccentricity": 0.2,
+            "semiMajorAxis": 3.27,
+            "epoch": 2450228.0,
+            "inclination": 72.0
+        },
+        "name": "HD 89307 b",
+        "customOrbit": "Custom HD 89307 b Orbit",
+        "radius": 85466.54000000001,
+        "orbitColor": "#d4eefe",
+        "type": "planet",
+        "id": 75000100
+    }
+]

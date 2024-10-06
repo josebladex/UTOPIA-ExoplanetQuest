@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 169830",
+        "customOrbit": "CustomHD169830Orbit",
+        "radius": 1350903.48,
+        "type": "planet",
+        "id": 40000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 313.483,
+            "period": 1818.82339,
+            "eccentricity": 0.246,
+            "semiMajorAxis": 3.075,
+            "epoch": 2450940.582,
+            "inclination": 24.469
+        },
+        "name": "HD 169830 c",
+        "customOrbit": "Custom HD 169830 c Orbit",
+        "radius": 80364.06,
+        "orbitColor": "#e0a53b",
+        "type": "planet",
+        "id": 40000100
+    }
+]

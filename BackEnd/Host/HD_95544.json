@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 95544",
+        "customOrbit": "CustomHD95544Orbit",
+        "radius": 759012.78,
+        "type": "planet",
+        "id": 77000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 151.528,
+            "period": 2041.54152,
+            "eccentricity": 0.049,
+            "semiMajorAxis": 3.166,
+            "epoch": 2454448.617,
+            "inclination": 86.497
+        },
+        "name": "HD 95544 b",
+        "customOrbit": "Custom HD 95544 b Orbit",
+        "radius": 81639.68000000001,
+        "orbitColor": "#536e3a",
+        "type": "planet",
+        "id": 77000100
+    }
+]

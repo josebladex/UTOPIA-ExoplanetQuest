@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "CoRoT-10",
+        "customOrbit": "CustomCoRoT-10Orbit",
+        "radius": 550110.18,
+        "type": "planet",
+        "id": 8000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 218.9,
+            "period": 13.2406,
+            "eccentricity": 0.53,
+            "semiMajorAxis": 0.1055,
+            "epoch": 2454990.85,
+            "inclination": 88.55
+        },
+        "name": "CoRoT-10 b",
+        "customOrbit": "Custom CoRoT-10 b Orbit",
+        "radius": 69329.947,
+        "orbitColor": "#fcca1d",
+        "type": "planet",
+        "id": 8000100
+    }
+]

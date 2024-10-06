@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 103891",
+        "customOrbit": "CustomHD103891Orbit",
+        "radius": 1545879.2400000002,
+        "type": "planet",
+        "id": 26000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 181.49,
+            "period": 1919.0,
+            "eccentricity": 0.31,
+            "semiMajorAxis": 3.27,
+            "epoch": 2455245.0,
+            "inclination": 27.4
+        },
+        "name": "HD 103891 b",
+        "customOrbit": "Custom HD 103891 b Orbit",
+        "radius": 84190.92,
+        "orbitColor": "#33193a",
+        "type": "planet",
+        "id": 26000100
+    }
+]

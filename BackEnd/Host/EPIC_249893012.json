@@ -1,0 +1,59 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "EPIC 249893012",
+        "customOrbit": "CustomEPIC249893012Orbit",
+        "radius": 1190744.82,
+        "type": "planet",
+        "id": 13000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 225.0,
+            "period": 3.5951,
+            "eccentricity": 0.06,
+            "semiMajorAxis": 0.047,
+            "epoch": 2457994.67,
+            "inclination": 86.14
+        },
+        "name": "EPIC 249893012 b",
+        "customOrbit": "Custom EPIC 249893012 b Orbit",
+        "radius": 12437.295,
+        "orbitColor": "#90c3cc",
+        "type": "planet",
+        "id": 13000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 217.0,
+            "period": 15.624,
+            "eccentricity": 0.07,
+            "semiMajorAxis": 0.13,
+            "epoch": 2457998.3,
+            "inclination": 87.94
+        },
+        "name": "EPIC 249893012 c",
+        "customOrbit": "Custom EPIC 249893012 c Orbit",
+        "radius": 23407.627,
+        "orbitColor": "#5d8ad1",
+        "type": "planet",
+        "id": 13000200
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 181.0,
+            "period": 35.747,
+            "eccentricity": 0.15,
+            "semiMajorAxis": 0.22,
+            "epoch": 2458008.77,
+            "inclination": 89.47
+        },
+        "name": "EPIC 249893012 d",
+        "customOrbit": "Custom EPIC 249893012 d Orbit",
+        "radius": 25129.714,
+        "orbitColor": "#2fc0e2",
+        "type": "planet",
+        "id": 13000300
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "Kepler-74",
+        "customOrbit": "CustomKepler-74Orbit",
+        "radius": 779903.04,
+        "type": "planet",
+        "id": 90000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 64.0,
+            "period": 7.340711,
+            "eccentricity": 0.0,
+            "semiMajorAxis": 0.0781,
+            "epoch": 2454967.04,
+            "inclination": 87.46
+        },
+        "name": "Kepler-74 b",
+        "customOrbit": "Custom Kepler-74 b Orbit",
+        "radius": 68628.356,
+        "orbitColor": "#d27b50",
+        "type": "planet",
+        "id": 90000100
+    }
+]

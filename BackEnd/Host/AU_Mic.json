@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "AU Mic",
+        "customOrbit": "CustomAUMicOrbit",
+        "radius": 571000.44,
+        "type": "planet",
+        "id": 5000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 88.528,
+            "period": 8.4629991,
+            "eccentricity": 0.186,
+            "semiMajorAxis": 0.0645,
+            "epoch": 2458322.77,
+            "inclination": 89.5
+        },
+        "name": "AU Mic b",
+        "customOrbit": "Custom AU Mic b Orbit",
+        "radius": 25238.1417,
+        "orbitColor": "#8622cd",
+        "type": "planet",
+        "id": 5000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 223.2844,
+            "period": 18.858991,
+            "eccentricity": 0.00338,
+            "semiMajorAxis": 0.1101,
+            "epoch": 2458324.0,
+            "inclination": 89.227
+        },
+        "name": "AU Mic c",
+        "customOrbit": "Custom AU Mic c Orbit",
+        "radius": 20665.044,
+        "orbitColor": "#514c27",
+        "type": "planet",
+        "id": 5000200
+    }
+]

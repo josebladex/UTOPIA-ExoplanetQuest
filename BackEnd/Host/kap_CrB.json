@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "kap CrB",
+        "customOrbit": "CustomkapCrBOrbit",
+        "radius": 3258880.5599999996,
+        "type": "planet",
+        "id": 114000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 177.6,
+            "period": 1253.68,
+            "eccentricity": 0.04,
+            "semiMajorAxis": 2.5,
+            "epoch": 2451743.5,
+            "inclination": 60.0
+        },
+        "name": "kap CrB b",
+        "customOrbit": "Custom kap CrB b Orbit",
+        "radius": 85466.54000000001,
+        "orbitColor": "#1f4548",
+        "type": "planet",
+        "id": 114000100
+    }
+]

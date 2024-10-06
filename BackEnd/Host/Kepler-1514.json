@@ -1,0 +1,43 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "Kepler-1514",
+        "customOrbit": "CustomKepler-1514Orbit",
+        "radius": 898281.18,
+        "type": "planet",
+        "id": 87000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": -75.28,
+            "period": 217.83184,
+            "eccentricity": 0.401,
+            "semiMajorAxis": 0.753,
+            "epoch": 2454981.75,
+            "inclination": 89.944
+        },
+        "name": "Kepler-1514 b",
+        "customOrbit": "Custom Kepler-1514 b Orbit",
+        "radius": 79216.00200000001,
+        "orbitColor": "#476e1a",
+        "type": "planet",
+        "id": 87000100
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 0.0,
+            "period": 10.514181,
+            "eccentricity": 0.32,
+            "semiMajorAxis": 0.0997,
+            "epoch": 2454956.9,
+            "inclination": 87.98
+        },
+        "name": "Kepler-1514 c",
+        "customOrbit": "Custom Kepler-1514 c Orbit",
+        "radius": 7500.6456,
+        "orbitColor": "#e851f9",
+        "type": "planet",
+        "id": 87000200
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "lightEmitting": true,
+        "name": "HD 204313",
+        "customOrbit": "CustomHD204313Orbit",
+        "radius": 765976.2000000001,
+        "type": "planet",
+        "id": 51000000,
+        "fetchElements": false
+    },
+    {
+        "elements": {
+            "argOfPeriapsis": 286.99,
+            "period": 2041.11539,
+            "eccentricity": 0.1,
+            "semiMajorAxis": 3.185,
+            "epoch": 2449883.77,
+            "inclination": 72.917
+        },
+        "name": "HD 204313 b",
+        "customOrbit": "Custom HD 204313 b Orbit",
+        "radius": 82277.49,
+        "orbitColor": "#213ed0",
+        "type": "planet",
+        "id": 51000100
+    }
+]
