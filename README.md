@@ -1,6 +1,12 @@
-####  🌌 UTOPIA-ExoplanetQuest
+<div align="center">
+    <h1>🌌 UTOPIA-ExoplanetQuest</h1>
+    <h3>🚀 Habitable Worlds Observatory Navigator</h3>
+</div>
 
-###  🚀 Habitable Worlds Observatory Navigator
+## 🌠 Project Overview
+
+Welcome to **UTOPIA-ExoplanetQuest**—a futuristic journey through our galaxy's habitable worlds! This project was created for the **2024 NASA Space Apps Challenge**, inspired by the challenge **"Navigator for the Hab
+
 
 ## 🌠 Project Overview
 
