@@ -5,11 +5,6 @@
 
 ## 🌠 Project Overview
 
-Welcome to **UTOPIA-ExoplanetQuest**—a futuristic journey through our galaxy's habitable worlds! This project was created for the **2024 NASA Space Apps Challenge**, inspired by the challenge **"Navigator for the Hab
-
-
-## 🌠 Project Overview
-
 Welcome to **UTOPIA-ExoplanetQuest**—a futuristic journey through our galaxy's habitable worlds! This project was created for the **2024 NASA Space Apps Challenge**, inspired by the challenge **"Navigator for the Habitable Worlds Observatory (HWO): Mapping the Characterizable Exoplanets in our Galaxy."** Our mission is to visualize the pathways to exoplanets near our solar system and assess their potential for characterization by the HWO. Buckle up for a voyage through the stars! 🌌
 
 ## 🛰️ Table of Contents
