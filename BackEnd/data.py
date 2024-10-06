@@ -102,5 +102,35 @@ for i in range(len(telescope_diameters)):
     # Calcular SNR y ESmax
     snr_results[i] = calcular_snr(snr0, r_star, r_planet, d, es, ps)
     esmax_results[i] = calcular_esmax(d, ps)
-    characterizable_planet = (snr_results > 5) & (planet_star_distances < esmax_results)
+
+characterizable_planet = (snr_results > 5) & (planet_star_distances < esmax_results)
+
+ 
+stellar_radii = np.array(stellar_radii, dtype=str)  
+planet_star_distances = np.array(planet_star_distances, dtype=str)  
+planet_radii = np.array(planet_radii, dtype=str)  
+planet_names = np.array(planet_names, dtype=str)  
+distances = np.array(distances, dtype=str)  
+characterizable_planet = np.array(characterizable_planet, dtype=str)  
+
+descripciones = [
+    f"El planeta \"{planet_names[i]}\" tiene un radio de {planet_radii[i]} veces el radio de la Tierra, "
+    f"se encuentra a {planet_star_distances[i]} unidades astronómicas de su estrella y "
+    f"está a {distances[i]} Pársec de distancia de nosotros."
+    for i in range(len(planet_names))
+]
+
+# Crear el diccionario para el JSON
+data_to_json = []
+for i in range(len(planet_names)):
+    data_to_json.append({
+        "planet_name": planet_names[i],
+        "isCharacterizable": characterizable_planet[i] == 'True',  # Convertir a booleano
+        "descripcion": descripciones[i]
+    })
+
+# Guardar el diccionario en un archivo JSON
+with open('characterizable.json', 'w') as json_file:
+    json.dump(data_to_json, json_file, ensure_ascii=False, indent=4)
+
 
