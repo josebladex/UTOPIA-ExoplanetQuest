@@ -43,6 +43,56 @@ Here's the tech powering our voyage through the stars:
 - **Backend**:
   - 🐍 **Python.js** for seamless backend operations
 
+### Key Features:
+- **Interactive Galaxy Map**: Users can navigate through a 3D space to explore various exoplanets.
+- **Exoplanet Data Visualization**: Provides details on exoplanets, allowing users to identify potential targets for future space missions.
+- **Data Integration**: Information about exoplanets is sourced from the **NASA Exoplanet Archive**. Since real-time access is unavailable, data is downloaded in **CSV** format and processed locally.
+
+### Data Flow:
+- The exoplanet data is stored locally in the **public/data** folder in JSON format, after being processed by the Back-End.
+  
+## Back-End
+
+The **Back-End** handles data processing and manipulation for the exoplanet information obtained from the NASA Exoplanet Archive.
+
+### Data Processing Flow:
+1. **CSV to JSON Conversion**: The downloaded **CSV** data is converted to **JSON** for more efficient manipulation.
+2. **Data Extraction**: Relevant data fields include:
+   - Planet Name
+   - Star Name (Host Name)
+   - Number of Stars
+   - Discovery Telescope
+   - Orbital Period (days)
+   - Semi-Major Axis (AU)
+   - Planet Radius (in Earth radii)
+   - Planet Density (g/cm³)
+   - Eccentricity
+   - Inclination (degrees)
+   - Periastron Epoch (days)
+   - Argument of Periastron (degrees)
+   - Stellar Radius (in Solar radii)
+   - Distance (pc)
+3. **Handling Missing Data**: A variable called **"nan"** is assigned to missing data points, which is used during the filtering process.
+
+### Data Filtering:
+The Back-End applies three main filters to ensure only relevant data is retained:
+- **Filter No. 1**: Discards exoplanets with an unknown telescope diameter, as this value is required to calculate the **SNR (Signal-to-Noise Ratio)**.
+- **Filter No. 2**: Removes exoplanets with more than one star as their central celestial body to focus on potentially habitable planets.
+- **Filter No. 3**: Uses `cleaner.py` to discard exoplanets that still contain a **"nan"** value in key fields. Then, `host_generator.py` generates a list of host names from the remaining data.
+
+Once the filters are applied, the cleaned data is saved in the **data.json** file, located in the **BackEnd** folder, and the host data is stored in the **Host** folder, ready for use in the Front-End.
+
+## Benefits and Objectives
+
+UTOPIA-ExoplanetQuest aims to provide an interactive tool for the exploration of exoplanets and their characteristics. With this project, users can gain insights into potential destinations for future space missions and contribute to the advancement of **astrobiology**.
+
+### Key Objectives:
+- **Facilitate Exploration**: Empower users to visualize and explore exoplanets and their potential for habitability.
+- **Analyze NASA's Data**: Provide a platform to analyze data from the NASA Exoplanet Archive.
+- **Promote Education**: Enhance understanding of exoplanetary systems and inspire curiosity about space exploration.
+
+We hope that this project serves as a valuable resource for researchers, students, and space enthusiasts alike.
+
 ## 📖 Front End Usage
 
 Ready to start exploring on your local machine? Follow these steps:
