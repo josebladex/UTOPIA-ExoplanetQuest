@@ -1,8 +1,8 @@
-import Archive from './_components/planets/page';
-import data from "@/app/archive/_components/data.json"; // Ajusta la ruta según la ubicación real de tu JSON
+import Archive from "./_components/planets/page";
 
-
-export default function Home() {
+export default async function Home() {
+  const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data/data.json`); // Asegúrate de que `NEXT_PUBLIC_BASE_URL` esté configurado correctamente
+  const data = await res.json();
 
   return (
     <div className="bg-gray-900 text-white min-h-screen p-8">

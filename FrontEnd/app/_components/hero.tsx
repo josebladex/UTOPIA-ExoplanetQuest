@@ -1,15 +1,19 @@
+"use client"
 import { Vortex } from "@/components/ui/vortex";
 import Link from "next/link";
 import React from "react";
+import MagicButton from "./MagicButton";
+import { FaTableList } from "react-icons/fa6";
+
 export function Hero() {
   return (
-    <div className="w-full mx-auto rounded-md  h-screen overflow-hidden">
+    <div className="w-full mx-auto rounded-md h-screen overflow-hidden">
       <Vortex
         backgroundColor="black"
         rangeY={800}
         particleCount={500}
         baseHue={120}
-        className="flex items-center flex-col justify-center px-2 md:px-10  py-4 w-full h-full"
+        className="flex items-center flex-col justify-center px-2 md:px-10 py-4 w-full h-full"
       >
         <h1 className="text-white text-2xl md:text-6xl font-bold text-center">
           UTOPIA Exoplanet Quest
@@ -23,13 +27,15 @@ export function Hero() {
           on their potential for characterization.
         </p>
         <div className="flex justify-center space-x-4 mt-6">
-  
-          <Link
-            href="/archive"
-            className="bg-green-500 text-white text-sm md:text-xl font-bold py-2 px-4 rounded hover:bg-green-600 transition"
-          >
-            View Exoplanet Archive
-          </Link>
+          <MagicButton
+            title="Exoplanet Archive"
+            icon={<FaTableList className="w-4 h-4" />}
+            position="left"
+            handleClick={() => {
+              window.open("/archive", "_blank");
+            }}
+          
+          />
         </div>
       </Vortex>
     </div>
