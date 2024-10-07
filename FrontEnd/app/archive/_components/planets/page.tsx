@@ -3,10 +3,9 @@ import { columns, Planets } from "./ columns";
 import { DataTable } from "./data-table";
 
 export default async function Archive() {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://utopia-exoplanet-quest.vercel.app';
-  
+
   try {
-    const res = await fetch(`${baseUrl}/data/data.json`);
+    const res = await fetch(`https://raw.githubusercontent.com/josebladex/UTOPIA-ExoplanetQuest/refs/heads/main/FrontEnd/public/data/data.json`);
     
     if (!res.ok) {
       const errorText = await res.text();
