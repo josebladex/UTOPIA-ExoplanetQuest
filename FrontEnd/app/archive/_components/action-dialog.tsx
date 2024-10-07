@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Dialog,
   DialogContent,
@@ -21,6 +21,7 @@ import { ActivitySquareIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Row } from "@tanstack/react-table";
 import { Planets } from "./planets/ columns";
+import Three, { Planet } from "./planets/canvas/three";
 
 interface ActionDialogProps {
   row: Row<Planets>; // Use the Row type with your Planets type
@@ -65,6 +66,36 @@ export const ActionDialog: React.FC<ActionDialogProps> = ({ row }) => {
       value: row.original.elements.isCharacterizable ? "Yes" : "No",
     },
   ];
+  const [data, setData] = useState<Planet[] | null>(null); // Cambiado a 'Planet[] | null'
+  
+  const [loading, setLoading] = useState(true); // Estado para manejar la carga
+  const [error, setError] = useState<string | null>(null); // Cambiado para aceptar cadenas o null
+
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://utopia-exoplanet-quest.vercel.app';
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const hostname = row.original.elements.hostname.replace(/ /g, "_"); // Reemplaza espacios por guiones bajos
+        const res = await fetch(`${baseUrl}/data/Host/${hostname}.json`);
+        if (!res.ok) {
+          const errorText = await res.text();
+          console.error('Error fetching data:', errorText);
+          throw new Error(`Error al cargar datos: ${res.status}`);
+        }
+
+        const result = await res.json();
+        setData(result); // Asigna el resultado a 'data'
+      } catch (err) {
+        console.error('Error durante la carga de datos:', err);
+        setError((err as Error).message); // Establece el mensaje de error en el estado
+      } finally {
+        setLoading(false); // Termina la carga
+      }
+    };
+
+    fetchData(); // Llama a la función para obtener datos
+  }, [baseUrl, row.original.elements.hostname]); // Dependencias para volver a ejecutar si cambian
 
   return (
     <DropdownMenu>
@@ -83,23 +114,23 @@ export const ActionDialog: React.FC<ActionDialogProps> = ({ row }) => {
             <DialogTrigger asChild>
               <Button variant="outline">3D Host System Viewer</Button>
             </DialogTrigger>
-            <DialogContent className="w-full h-screen p-2">
+            <DialogContent className="w-1/2 h-1/2 p-2">
               <DialogHeader>
                 <DialogTitle>3D Host System Viewer</DialogTitle>
                 <DialogDescription>
                   Here you can view the host system in 3D.
                 </DialogDescription>
               </DialogHeader>
-              <div className="w-full h-screen p-3 flex items-center justify-center">
-                <iframe
-                  id="orbitViewerContainer"
-                  className="w-[450px] h-[350px]"
-                  src="/orbits/orbit.html"
-                ></iframe>
+              <div className="w-full cursor-pointer h-full p-3 flex items-center justify-center">
+             
+              {loading ? (
+                  <p>Cargando datos...</p>
+                ) : error ? (
+                  <p>No se pudieron cargar los datos: {error}</p>
+                ) : (
+                  <Three host={data || []} /> // Pasa los datos al componente Three
+                )}
               </div>
-              <Button variant="outline" onClick={() => setOpen3DViewer(false)}>
-                Close
-              </Button>
             </DialogContent>
           </Dialog>
         </DropdownMenuItem>
