@@ -2,7 +2,7 @@ import Archive from "./_components/planets/page";
 
 export default async function Home() {
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://mi-dominio.vercel.app';
-  const res = await fetch(`${baseUrl}data/data.json`);
+  const res = await fetch(`${baseUrl}/data/data.json`);
   
   if (!res.ok) {
     const errorText = await res.text();
