@@ -3,6 +3,8 @@ import localFont from "next/font/local";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 
+import { logEvent } from "firebase/analytics";
+import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "UTOPIA Exoplanet Quest",
@@ -15,11 +17,24 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+
+
   return (
     <html lang="en">
-      <body
-   suppressHydrationWarning={true}
-      >
+      <body suppressHydrationWarning={true}>
+        <Script
+          strategy="lazyOnload"
+          src="https://www.googletagmanager.com/gtag/js?id=G-GDRQSX1DR0"
+          async
+        />
+        <Script strategy="lazyOnload" id="analitics">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-GDRQSX1DR0');
+          `}
+        </Script>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
