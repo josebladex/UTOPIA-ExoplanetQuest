@@ -38,9 +38,6 @@ importers:
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
-      firebase:
-        specifier: ^9.23.0
-        version: 9.23.0
       framer-motion:
         specifier: ^11.11.1
         version: 11.11.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -84,9 +81,6 @@ importers:
         specifier: ^2.32.0
         version: 2.32.0(three@0.169.0)
     devDependencies:
-      '@types/firebase':
-        specifier: ^3.2.1
-        version: 3.2.1
       '@types/node':
         specifier: ^20.16.10
         version: 20.16.10
@@ -935,10 +929,6 @@ packages:
 
   '@types/draco3d@1.4.10':
     resolution: {integrity: sha512-AX22jp8Y7wwaBgAixaSvkoG4M/+PlAcm3Qs4OW8yT9DM4xUpWKeFhLueTAyZF39pviAdcDdeJoACapiAceqNcw==}
-
-  '@types/firebase@3.2.1':
-    resolution: {integrity: sha512-G8XgHMu2jHlElfc2xVNaYP50F0qrqeTCjgeG1v5b4SRwWG4XKC4fCuEdVZuZaMRmVygcnbRZBAo9O7RsDvmkGQ==}
-    deprecated: This is a stub types definition for Firebase API (https://www.firebase.com/docs/javascript/firebase). Firebase API provides its own type definitions, so you don't need @types/firebase installed!
 
   '@types/geojson@7946.0.14':
     resolution: {integrity: sha512-WCfD5Ht3ZesJUsONdhvm84dmzWOiOzOAqOncN0++w0lBw1o8OuDNJF2McvvCef/yBqb/HYRahp1BYtODFQ8bRg==}
@@ -3790,12 +3780,6 @@ snapshots:
   '@types/debounce@1.2.4': {}
 
   '@types/draco3d@1.4.10': {}
-
-  '@types/firebase@3.2.1':
-    dependencies:
-      firebase: 9.23.0
-    transitivePeerDependencies:
-      - encoding
 
   '@types/geojson@7946.0.14': {}
 
