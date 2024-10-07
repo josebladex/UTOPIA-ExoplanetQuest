@@ -1,9 +1,6 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
-
-import { logEvent } from "firebase/analytics";
 import Script from "next/script";
 
 export const metadata: Metadata = {
