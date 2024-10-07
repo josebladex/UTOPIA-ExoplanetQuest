@@ -1,9 +1,16 @@
 import Archive from "./_components/planets/page";
 
 export default async function Home() {
-  const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data/data.json`); // Asegúrate de que `NEXT_PUBLIC_BASE_URL` esté configurado correctamente
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://mi-dominio.vercel.app';
+  const res = await fetch(`${baseUrl}data/data.json`);
+  
+  if (!res.ok) {
+    const errorText = await res.text();
+    console.error('Error fetching data:', errorText);
+    throw new Error(`Error al cargar datos: ${res.status}`);
+  }
+  
   const data = await res.json();
-
   return (
     <div className="bg-gray-900 text-white min-h-screen p-8">
       <h1 className="text-4xl font-bold mb-6 text-red-400">Archive</h1>
