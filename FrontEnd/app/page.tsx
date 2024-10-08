@@ -14,7 +14,7 @@ const links = [
   {
     title: "Github",
     icon: <FaGithub className="h-full w-full text-red-700" />,
-    href: "https://github.com/josebladex",
+    href: "https://github.com/josebladex/UTOPIA-ExoplanetQuest",
   },
   {
     title: "LinkedIn",
