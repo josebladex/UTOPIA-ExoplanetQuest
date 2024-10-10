@@ -164,7 +164,7 @@ function IconContainer({
     
     <Link 
     href={href}
-    target={["Github", "CV", "LinkedIn"].includes(title) ? "_blank" : "_self"}>
+    target="_blank">
       <motion.div
         ref={ref}
         style={{ width, height }}
